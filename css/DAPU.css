@@ -1,0 +1,102 @@
+.three-parts {
+	width: 1160px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.two-parts {
+	width: 1160px;
+	overflow: hidden;
+	margin-bottom: 36px;
+}
+
+.gw {
+	border: solid 15px #EBEBEB;
+	width: 350px;
+	height: 230px;
+	/*padding: 10px 15px 0;*/
+	/*overflow: hidden;*/
+	/*background: #fff;*/
+	float: right;
+}
+
+.w-DP {
+	margin-top: 50px;
+	height: 76px;
+	overflow: hidden;
+	background: url(../img/zzz.png) repeat-x;
+	text-align: center;
+}
+
+.table1 {
+	display: block;
+	float: left;
+	padding: 0 40px;
+	height: 38px;
+	line-height: 38px;
+	font-size: 16px;
+	border: 1px solid #e5e5e5;
+	border-left: none;
+	margin-bottom: 15px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+.Eight-div {
+	width: 1180px;
+}
+
+.table2 {
+	height: 300px;
+	width: 245px;
+	text-align: center;
+	float: left;
+	padding: 14px 14px 8px;
+	border: 1px solid #ececec;
+	margin: 20px 20px 0 0;
+	/*margin-left: 50px;*/
+}
+
+.table2 dd {
+	width: 205px;
+	padding-top: 10px;
+	font-size: 14px;
+}
+
+.Last {
+	width: 100%;
+	height: 135px;
+	background: #F2F2F2;
+	margin: 0 auto;
+	color: #5d5d5d;
+	border-bottom: solid 2px #DFDFDF;
+	border-top: solid 2px #DFDFDF;
+}
+
+.a_first {
+	padding: 25px 0 0;
+	border-bottom: 2px solid #DDDDDD;
+	height: 35px;
+	overflow: hidden;
+	font-size: 16px;
+	text-align: Center;
+}
+
+.a_first1 {
+	margin: 60px;
+}
+
+.a_second {
+	height: 60px;
+	color: #CCCCCC;
+	text-align: Center;
+	padding: 30px 0 0;
+}
